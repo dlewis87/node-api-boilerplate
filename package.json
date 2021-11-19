@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/silverwedding/node-api-boilerplate#readme",
   "devDependencies": {
-    "@types/jest": "^27.0.1",
+    "@types/jest": "^27.0.3",
     "@types/node": "^16.7.10",
     "jest": "^27.1.0",
     "prettier": "^2.3.2",
